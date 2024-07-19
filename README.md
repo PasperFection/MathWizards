@@ -8,10 +8,10 @@ Laten we de belangrijkste aspecten van deze innovatieve rekenspel app voor kinde
 
 ---
 ## Gamification elementen:
-- Scoresysteem: Spelers verdienen punten voor correcte antwoorden.
-- Streak-systeem: Opeenvolgende correcte antwoorden verhogen de score-vermenigvuldiger.
-- Timer: Spelers moeten zo veel mogelijk vragen beantwoorden binnen een tijdslimiet.
-- Visuele feedback: Sterren worden weergegeven voor opeenvolgende correcte antwoorden.
+- `Scoresysteem:` Spelers verdienen punten voor correcte antwoorden.
+- `Streak-systeem:` Opeenvolgende correcte antwoorden verhogen de score-vermenigvuldiger.
+- `Timer:` Spelers moeten zo veel mogelijk vragen beantwoorden binnen een tijdslimiet.
+- `Visuele feedback:` Sterren worden weergegeven voor opeenvolgende correcte antwoorden.
 
 ---
 ## Interactieve UI:
