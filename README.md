@@ -114,6 +114,7 @@ Je kunt de app nu testen op een iOS- of Android-emulator, of op je fysieke appar
 ### opmerking
 Deze React Native componenten vormen de basis voor een boeiende en educatieve rekenspel app. Het combineert leren met plezier, waardoor kinderen gemotiveerd blijven om hun rekenvaardigheden te verbeteren. Vergeet niet om de app grondig te testen op verschillende apparaten en schermformaten om een goede gebruikerservaring te garanderen. Veel succes met je Math Wizards app!
 
+``` bash
 MathWizards/
 ├── android/
 ├── ios/
@@ -150,7 +151,8 @@ MathWizards/
 ├── app.json
 ├── package.json
 └── README.md
-
+```
+---
 ## Nieuwe Componenten en Functies
 
 ### TutorialScreen
