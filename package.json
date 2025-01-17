@@ -36,10 +36,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/uw-gebruikersnaam/mathwizards.git"
+    "url": "https://github.com/PasperFection/MathWizards.git"
   },
   "bugs": {
-    "url": "https://github.com/uw-gebruikersnaam/mathwizards/issues"
+    "url": "https://github.com/PasperFection/MathWizards/issues"
   },
-  "homepage": "https://github.com/uw-gebruikersnaam/mathwizards#readme"
+  "homepage": "https://github.com/PasperFection/MathWizards#readme"
 }
